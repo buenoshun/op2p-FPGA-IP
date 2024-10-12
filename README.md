@@ -2,6 +2,8 @@
 Open peer-to-peer interface based on Xilinx Aurora VHDL FPGA project
 Open Peer to Peer Interface, Wishbone to Aurora Bridge (OP2P).
 
+To download: Click the zip file, on the next page click "view raw" to download it.
+
 originally hosted (in 2011) at: 
 https://opencores.org/projects/op2p
 Since the OpenCores.org admins have abandoned their website, and don't allow new users to register and download old projects (like this one), I, Istvan Nagy, the sole author, decided to re-release the project on GitHub. The new release is with a new, less restrictive license: "BSD zero clause", instead of the old LGPL. This will allow companies to use it in their product without restrictions or obligations.
